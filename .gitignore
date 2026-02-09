@@ -1,0 +1,9 @@
+# Composer dependencies
+/vendor/
+
+# Environment files (sensitive data)
+.env
+.env.local
+
+# Optional: system files
+.DS_Store
